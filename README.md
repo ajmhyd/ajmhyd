@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **amatseshe@gmail.com**
 
-- ⚡ Fun fact **I like to disc jockey house music.**
+- ⚡ Fun fact **I like to disc jockey house music and collect vinyl records.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
