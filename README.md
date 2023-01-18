@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex Matseshe</h1>
 <h3 align="center">A Software Engineer from Chicago</h3>
 
-- 🌱 I’m currently learning **Rust and web3**
-
 - 💬 Ask me about **anything, I am happy to help**
 
 - 📫 How to reach me **amatseshe@gmail.com**
