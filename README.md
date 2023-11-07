@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Matseshe</h1>
 <h3 align="center">A Software Engineer from Chicago</h3>
 
-- 🌱 I’m currently learning **How to become a better developer**
+- 🌱 I’m currently learning **how to become a better developer**
 
 - 💬 Ask me about **anything, I am happy to help**
 
