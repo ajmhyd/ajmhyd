@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **anything, I am happy to help**
 
-- 📫 How to reach me **amatseshe@gmail.com**
+- 📫 How to reach me **amatseshe@proton.me**
 
 - ⚡ Fun fact **I am a house music disc jockey**
 
